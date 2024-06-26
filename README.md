@@ -1,2 +1,2 @@
 # -PatinhasUESC-.github.io
-ong
+Pagina modelo para a ONG PatinhasUesc, mantida por estudantes da UESC.
